@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NosVamosApp</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="btn">Iniciar sesión</string>
+</resources>
